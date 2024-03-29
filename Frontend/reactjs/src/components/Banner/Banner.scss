@@ -1,0 +1,21 @@
+.banner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #25D366;
+    height: 25vh;
+    .Name1{
+        font-size: 34px;
+        color: rgb(244, 237, 237);
+        font-weight: 500;
+        margin-top: 50px;
+        margin-bottom: 10px;
+    }
+    .Name2{
+        font-size: 13px;
+        margin-top: 0px;
+        color: aliceblue;
+        font-weight: 500;
+        margin-bottom: 40px;
+    }
+}

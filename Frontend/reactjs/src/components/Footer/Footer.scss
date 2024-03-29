@@ -1,0 +1,25 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    .footer-text{
+        margin-left: 20%;
+        font-size: 14px;
+        color: grey;
+        width: 60%;
+        margin-bottom: 0;
+        margin-top: 5px;
+    }
+    .footer-text2{
+        margin-left: 20%;
+        font-size: 14px;
+        color: grey;
+        width: 60%;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .footer-note{
+        font-weight: 500;
+    }
+}
